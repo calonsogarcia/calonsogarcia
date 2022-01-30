@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carolina</h1>
-<h3 align="center">A career changer getting into the amazig web development world.</h3>
+<h3 align="center">A career changer getting into the amazing web development world.</h3>
 
 
 - 📫 How to reach me **carolina.alon.garcia@gmail.com**
