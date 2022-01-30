@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Carolina</h1>
 <h3 align="center">A passionate career changer getting into web development world.</h3>
 
-<p align="center">
-- 📫 How to reach me 
-            **carolina.alon.garcia@gmail.com**
-</p>
+
+- 📫 How to reach me **carolina.alon.garcia@gmail.com**
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/carolina-alonso-garcia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/carolina-alonso-garcia/" height="30" width="40" /></a>
 </p>
 
-<p align="left"><a href= "https://www.codewars.com/users/CarolinaAGarcia/badges/micro"></p>
+<p><img align="left" src="https://www.codewars.com/users/CarolinaAGarcia/badges/micro" /></p>
 
 
 <h3 align="center">Languages and Tools:</h3>
